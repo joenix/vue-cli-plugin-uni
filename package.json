@@ -1,13 +1,14 @@
 {
   "name": "vue-cli-plugin-uni",
-  "version": "0.0.2",
+  "version": "0.0.11",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@vue/cli-shared-utils": "^3.5.1"
+    "@vue/cli-shared-utils": "^3.5.1",
+    "deepeach": "^1.2.1"
   },
   "author": "joenix",
   "license": "MIT"
